@@ -57,7 +57,7 @@ export const inputFormElements13 = [
 },
 {
     name: "ShiftCode",
-    label: "ShifrCode", 
+    label: "ShiftCode", 
     variant: "outlined", 
     fullWidth: true,
     required: true,
